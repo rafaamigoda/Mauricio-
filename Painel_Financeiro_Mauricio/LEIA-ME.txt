@@ -1,0 +1,5 @@
+PAINEL FINANCEIRO MAURICIO (100% DARK / CINZA)
+
+1. Extraia a pasta 'Painel_Financeiro_Mauricio' no seu PC.
+2. Os ícones dos bancos já estão dentro da pasta 'icones/'.
+3. Dê dois cliques em 'iniciar.bat' para instalar as dependências (se necessário) e abrir o painel no navegador.
